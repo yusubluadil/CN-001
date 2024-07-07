@@ -169,6 +169,3 @@ while True:
 #     yas daxil edildiyi zaman hemin daxil edilen yasdan boyuk olan istifadeciler gelsin
 #     name daxil edildiyi zaman hemin ada uygun olan istifadeciler cixsin
 #     surname daxil edildiyi zaman hemin soyada uygun olan istifadeciler cixsin
-
-"Əlimərdan"
-name__icontains = 'Əli'

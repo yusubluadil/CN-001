@@ -72,13 +72,13 @@ kvadrat = lambda a, b: a ** b
 
 # recursive funcs
 
-a = 1
-def factorial(n):
-    if n == 0:
-        return 1
-    return n * factorial(n - 1)
+# a = 1
+# def factorial(n):
+#     if n == 0:
+#         return 1
+#     return n * factorial(n - 1)
 
-print(factorial(5))
+# print(factorial(5))
 
 
 # a = 0
@@ -90,6 +90,35 @@ print(factorial(5))
 #     print(a)
 #     print(factorial(5))
 
-
-
 # func3()
+
+
+
+# function docstrings #
+
+
+def divide(a: int=None, b: int=None) -> float | str:
+    """ Bu funksiya bölmə əməliyyatını yerinə yetirir! """
+
+    if isinstance(a, int) and isinstance(b, int):
+        if a > b:
+            return a / b
+        return b / a
+    else:
+        return 'Daxil edilən ədədlər integer olmalıdır'  # xeta mesaji
+
+
+a = divide(5, 5)
+
+print(a)
+
+
+def say_hi(a, b, c, /):
+    print(a)
+    print(b)
+    print(c)
+    return 'Hello!'
+
+
+
+say_hi('a', 'b', 'c')
