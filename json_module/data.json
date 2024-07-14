@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Elçin",
+        "surname": "Bayramlı",
+        "age": 21,
+        "classes": ["9", "10", "11"],
+        "is_active": true,
+        "additional_info": {
+            "place": "Aze",
+            "city": "Baki"
+        } 
+    },
+    {
+        "name": "Elçin",
+        "surname": "Mikayıllı",
+        "age": 21
+    },
+    {
+        "name": "Kənan",
+        "surname": "Baxşəliyev",
+        "age": 21
+    },
+    {
+        "name": "İzzət",
+        "surname": "Ağayev",
+        "age": 21
+    },
+    {
+        "name": "İzzət",
+        "surname": "Ağayev",
+        "age": 21
+    },
+    {
+        "name": "İzzət",
+        "surname": "Ağayev",
+        "age": 21
+    }
+]

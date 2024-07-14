@@ -53,7 +53,7 @@ def remove_file(file_name) -> str:
         os.remove(file_name)
         return f'{file_name} adlı fayl müvəffəqiyyətlə silindi!'
     else:
-        return f'Daxil etdiyiniz {current_dir_name} adlı fayl mövcud deyil!'
+        return f'Daxil etdiyiniz {file_name} adlı fayl mövcud deyil!'
 
 file_name = input("Silmək istədiyini fayl adını daxil edin: ")
 

@@ -1,0 +1,2 @@
+Mən Python öyrənirəm!
+Python Guido Van Rossum tərəfindən yaradılıb.
