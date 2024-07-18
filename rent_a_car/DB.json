@@ -1,0 +1,26 @@
+{
+    "1": {
+        "marka": "qwe",
+        "model": "qwe",
+        "date_of_production": 200,
+        "march": 200,
+        "engine_volume": 200.0,
+        "price": 200,
+        "color": "qerewg",
+        "plate": "10-HH-444",
+        "owner_fullname": "asd qew",
+        "fin": "QWEASD1"
+    },
+    "2": {
+        "marka": "asdqwe",
+        "model": "qwe",
+        "date_of_production": 1123,
+        "march": 123,
+        "engine_volume": 123.0,
+        "price": 123,
+        "color": "qwe",
+        "plate": "12-KK-555",
+        "owner_fullname": "hjk bnm",
+        "fin": "ASDFGH2"
+    }
+}
