@@ -74,7 +74,7 @@ class Person:
 
 # print(Person.class_name)
 
-# person1 = Person('Eli', 'Eliyev', 18, 'Azerbaycan', '1234567')
+person1 = Person('Eli', 'Eliyev', 18, 'Azerbaycan', '1234567')
 # person1.get_datas()
 # person1.name
 
